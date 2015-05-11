@@ -18,14 +18,21 @@
   text-align: center;
 }
 
+.education {
+  width: 100%;
+  margin: 0 auto;
+}
+
 #edu {
   float: left;
-  padding-left: 6em;
+  width: 50%;
+  text-align: center;
 }
 
 #edu2 {
   float: right;
-  padding-right: 6em;
+  width: 50%;
+  text-align: center;
 }
 
 
@@ -97,7 +104,7 @@ section {
   display: inline;
 }
 
-.chart {
+.chart3 {
   width: 50%;
   float: left;
 }
